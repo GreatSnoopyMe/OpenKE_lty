@@ -3,7 +3,6 @@ import torch.nn as nn
 import os
 import torch.nn.functional as F
 import json
-import numpy as np
 
 
 class BaseModule(nn.Module):
